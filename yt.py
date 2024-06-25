@@ -1341,7 +1341,7 @@ def Subscraption():
 		print ("8451EE6B3E-M4")
 		print (" Your Key : " )
 		print ("")
-		name = input(" Your Name : ")
+		name = input(" Your Name :"ALIYAN-TRICKER-8451EE6B3E-M4")
 		print ("")
 		gf = input(" Your gf Name : ")
 		print ("")
