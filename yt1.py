@@ -1344,7 +1344,7 @@ def Subscraption():
 		name = input(" Your Name :"")
 		print ("M4786")
 		gf = input(" Your gf Name : ")
-		print ("")
+		print ("ALIYAN-TRICKER-8451EE6B3E-M4786==")
 		lol = input(" Your Your Email : ")
 		print ("")
 		input(" Press Enter To Send Key")
