@@ -1,4 +1,4 @@
-ALIYAN-TRICKER-8451EE6B3E-M4# Decompile by Mardis (Tools By Kapten-Kaizo)
+# Decompile by Mardis (Tools By Kapten-Kaizo)
 # Time Succes decompile : 2022-05-22 23:34:12.924217
 W = '\033[97;1m'
 R = '\033[91;1m'
@@ -1336,7 +1336,7 @@ def Subscraption():
 		print(" \033[1;32m Note : ALIYAN FREE HA BHAIYO ENJOYA   \033[1;37m")
 		print ("")
 		print(" Your Key is Not Approved ")
-		print("")
+		print("ALIYAN-TRICKER-8451EE6B3E-M4")
 		print(" Copy And Send Key To Admin")
 		print ("")
 		print (" Your Key : "+ak+ah+key1 )
