@@ -1342,7 +1342,7 @@ def Subscraption():
 		print (" Your Key : " )
 		print ("")
 		name = input(" Your Name :"")
-		print ("ALIYAN-TRICKER-8451EE6B3E-M4786==")
+		print ("M4786")
 		gf = input(" Your gf Name : ")
 		print ("")
 		lol = input(" Your Your Email : ")
